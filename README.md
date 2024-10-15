@@ -1,0 +1,1 @@
+La suite de Fibonacci est une série mathématique où chaque nombre est la somme des deux précédents. Elle commence généralement par 0 et 1.La formule générale pour générer la suite est :  F(n) = F(n-1) + F(n-2) avec  F(0) = 0  et  F(1) = 1.
